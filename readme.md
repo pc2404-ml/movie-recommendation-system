@@ -21,7 +21,7 @@ This project is a **Content-Based Movie Recommendation System** built using **Ma
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/movie-recommendation-system.git
-   cd movie-recommendation-system
+   
   
 2. Install the dependencies:
    pip install -r requirements.txt
