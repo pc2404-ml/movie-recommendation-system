@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-This project is a **Content-Based Movie Recommendation System** built using **Machine Learning** and **Natural Language Processing (NLP)** techniques. It suggests movies similar to the one selected by the user, based on metadata like genres, keywords, cast, and crew.
+This project is a **Content-Based Movie Recommendation System** built using **Machine Learning** techniques. It suggests movies similar to the one selected by the user, based on metadata like genres, keywords, cast, and crew.
 
 ## 🚀 Features
 
